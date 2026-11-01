@@ -1,0 +1,27 @@
+{
+  "name": "Replenish for Work - Gestor inteligente de consumíveis",
+  "short_name": "Replenish PT",
+  "description": "Gestão profissional de ciclos de consumíveis e stock para empresas e locais de trabalho.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
